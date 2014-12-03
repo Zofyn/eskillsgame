@@ -4,7 +4,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<ZoFyn's Eskills Memory Game>
+	<Name>ZoFyn's Eskills Memory Game</name> 
 		<gap:platform name="Android" /> <description> This Eskills game was developed by ZoFyn for ITGirls2014!</description>
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
